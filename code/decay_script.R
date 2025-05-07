@@ -1,4 +1,4 @@
-
+# Example of deadwood pool decay 
 samp <- 
   samples |>
   dplyr::group_by(unique_id, area) |>
